@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Vulneravel
-  description: The preview of the Fjord theme
+  description: A place where you can be
   extra:
     - name: 'og:type'
       value: website
