@@ -5,7 +5,7 @@
         "tagline": "A place where you can be",
         "logo_img_alt": "Vulneravel Logo",
         "background_img": "images/8.jpg",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
@@ -28,7 +28,7 @@
                 "style": "link"
             }
         ],
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",
